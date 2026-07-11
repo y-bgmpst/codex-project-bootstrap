@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Bootstrap"
+  short_description: "Quickly surfaces the right Codex skills"
+  default_prompt: "Use $project-bootstrap to identify the smallest useful skill set for a new repository before reading too much context."
+
+policy:
+  allow_implicit_invocation: true
