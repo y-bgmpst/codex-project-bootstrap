@@ -11,6 +11,13 @@ Use this skill at the start of a new project or when the repo shape is still unc
 
 Return a short, practical skill hint list instead of reading everything.
 
+## Canonical source
+
+- GitHub repo: `https://github.com/y-bgmpst/codex-project-bootstrap`
+- License: Apache-2.0
+
+The hinted curated skills in this bootstrap list are Apache-2.0 licensed, so this repo stays Apache-2.0 compatible.
+
 ## Default hints
 
 Use these first when they match the repo or task:
