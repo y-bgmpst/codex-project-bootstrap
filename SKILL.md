@@ -16,6 +16,12 @@ Return a short, practical skill hint list instead of reading everything.
 - GitHub repo: `https://github.com/y-bgmpst/codex-project-bootstrap`
 - License: Apache-2.0
 
+Install on a new machine with:
+
+```bash
+./install.sh
+```
+
 The hinted curated skills in this bootstrap list are Apache-2.0 licensed, so this repo stays Apache-2.0 compatible.
 
 ## Default hints
